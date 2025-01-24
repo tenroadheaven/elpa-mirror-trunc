@@ -1,0 +1,20 @@
+Package: diredfd
+Fetcher: github
+Source:  https://github.com/knu/diredfd.el
+
+Updating /mnt/store/melpa/working/diredfd/
+Checking out d789710c7e9699dae6ca87dcbfc27641a85fa3b6
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/diredfd/
+  to /tmp/diredfdiprecn/diredfd-20241209.623
+    dired-fdclone.el -> dired-fdclone.el
+    diredfd.el -> diredfd.el
+Created diredfd-20241209.623.tar containing:
+  diredfd-20241209.623/
+  diredfd-20241209.623/dired-fdclone.el
+  diredfd-20241209.623/diredfd-pkg.el
+  diredfd-20241209.623/diredfd.el
+ ✓ Success:
+  2025-01-22T11:12:15+0000  diredfd-20241209.623.entry
+  2025-01-22T11:12:15+0000  diredfd-20241209.623.tar
+Built diredfd in 3.639s, finished at 2025-01-22T11:12:16+0000

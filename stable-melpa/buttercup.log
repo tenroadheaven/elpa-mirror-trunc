@@ -1,0 +1,24 @@
+Package: buttercup
+Fetcher: github
+Source:  https://github.com/jorgenschaefer/emacs-buttercup
+
+Updating /mnt/store/melpa/working/buttercup/
+Checking out bf01a33f8bc2d3664121d3b20f7496e67ce55e6a
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/buttercup/
+  to /tmp/buttercupKmlCAJ/buttercup-20240904.2311
+    buttercup-compat.el -> buttercup-compat.el
+    buttercup.el -> buttercup.el
+    bin => bin
+Created buttercup-20240904.2311.tar containing:
+  buttercup-20240904.2311/
+  buttercup-20240904.2311/bin/
+  buttercup-20240904.2311/bin/buttercup
+  buttercup-20240904.2311/bin/buttercup.bat
+  buttercup-20240904.2311/buttercup-compat.el
+  buttercup-20240904.2311/buttercup-pkg.el
+  buttercup-20240904.2311/buttercup.el
+ ✓ Success:
+  2025-01-22T11:01:31+0000  buttercup-20240904.2311.entry
+  2025-01-22T11:01:30+0000  buttercup-20240904.2311.tar
+Built buttercup in 4.343s, finished at 2025-01-22T11:01:32+0000

@@ -1,0 +1,18 @@
+Package: kele
+Fetcher: github
+Source:  https://github.com/jinnovation/kele.el
+
+Updating /mnt/store/melpa/working/kele/
+Checking out 1d23e6a18a031466a2c41f72d0e2f67b5cc45373
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/kele/
+  to /tmp/keleYcfljp/kele-20250112.2243
+    kele.el -> kele.el
+Created kele-20250112.2243.tar containing:
+  kele-20250112.2243/
+  kele-20250112.2243/kele-pkg.el
+  kele-20250112.2243/kele.el
+ ✓ Success:
+  2025-01-22T11:42:20+0000  kele-20250112.2243.entry
+  2025-01-22T11:42:20+0000  kele-20250112.2243.tar
+Built kele in 4.083s, finished at 2025-01-22T11:42:22+0000

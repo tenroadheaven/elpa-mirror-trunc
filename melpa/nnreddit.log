@@ -1,0 +1,34 @@
+Package: nnreddit
+Fetcher: github
+Source:  https://github.com/dickmao/nnreddit
+
+Updating /mnt/store/melpa/working/nnreddit/
+Checking out c3ce69a8864d8333a390dcb20f78de3ba2c4111f
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/nnreddit/
+  to /tmp/nnredditsu5z6P/nnreddit-20250111.350
+  ! lisp/nnreddit-pkg.el -> nnreddit-pkg.el
+  ! lisp/nnreddit.el -> nnreddit.el
+    setup.py -> setup.py
+    requirements.txt -> requirements.txt
+    nnreddit => nnreddit
+Created nnreddit-20250111.350.tar containing:
+  nnreddit-20250111.350/
+  nnreddit-20250111.350/nnreddit-pkg.el
+  nnreddit-20250111.350/nnreddit.el
+  nnreddit-20250111.350/nnreddit/
+  nnreddit-20250111.350/nnreddit/VERSION
+  nnreddit-20250111.350/nnreddit/__init__.py
+  nnreddit-20250111.350/nnreddit/__main__.py
+  nnreddit-20250111.350/nnreddit/authenticated_reddit.py
+  nnreddit-20250111.350/nnreddit/pylintrc
+  nnreddit-20250111.350/nnreddit/templates/
+  nnreddit-20250111.350/nnreddit/templates/index.html
+  nnreddit-20250111.350/nnreddit/templates/mailcap
+  nnreddit-20250111.350/nnreddit/templates/rtv.cfg
+  nnreddit-20250111.350/requirements.txt
+  nnreddit-20250111.350/setup.py
+ ✓ Success:
+  2025-01-22T11:53:10+0000  nnreddit-20250111.350.entry
+  2025-01-22T11:53:10+0000  nnreddit-20250111.350.tar
+Built nnreddit in 3.525s, finished at 2025-01-22T11:53:11+0000

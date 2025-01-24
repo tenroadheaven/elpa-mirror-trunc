@@ -1,0 +1,18 @@
+Package: terminal-here
+Fetcher: github
+Source:  https://github.com/davidshepherd7/terminal-here
+
+Updating /mnt/store/melpa/working/terminal-here/
+Checking out dad595abd278a89f14e9f0231bb96ed089822245
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/terminal-here/
+  to /tmp/terminal-here6nC2dK/terminal-here-20241231.1234
+    terminal-here.el -> terminal-here.el
+Created terminal-here-20241231.1234.tar containing:
+  terminal-here-20241231.1234/
+  terminal-here-20241231.1234/terminal-here-pkg.el
+  terminal-here-20241231.1234/terminal-here.el
+ ✓ Success:
+  2025-01-22T09:14:31+0000  terminal-here-20241231.1234.entry
+  2025-01-22T09:14:31+0000  terminal-here-20241231.1234.tar
+Built terminal-here in 4.219s, finished at 2025-01-22T09:14:32+0000

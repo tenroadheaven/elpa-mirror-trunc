@@ -1,0 +1,20 @@
+Package: anki-editor
+Fetcher: github
+Source:  https://github.com/anki-editor/anki-editor
+
+Updating /mnt/store/melpa/working/anki-editor/
+Checking out 65b64b3c492aabae1289fff63120187b535a30ab
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/anki-editor/
+  to /tmp/anki-editorBiLWSL/anki-editor-20250118.856
+    anki-editor-ui.el -> anki-editor-ui.el
+    anki-editor.el -> anki-editor.el
+Created anki-editor-20250118.856.tar containing:
+  anki-editor-20250118.856/
+  anki-editor-20250118.856/anki-editor-pkg.el
+  anki-editor-20250118.856/anki-editor-ui.el
+  anki-editor-20250118.856/anki-editor.el
+ ✓ Success:
+  2025-01-22T10:56:31+0000  anki-editor-20250118.856.entry
+  2025-01-22T10:56:31+0000  anki-editor-20250118.856.tar
+Built anki-editor in 5.244s, finished at 2025-01-22T10:56:33+0000

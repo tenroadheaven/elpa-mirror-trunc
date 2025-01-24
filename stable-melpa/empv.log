@@ -1,0 +1,18 @@
+Package: empv
+Fetcher: github
+Source:  https://github.com/isamert/empv.el
+
+Updating /mnt/store/melpa/working/empv/
+Checking out 5ab1e9a165c1770d75093a652ebf04e3bafe455a
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/empv/
+  to /tmp/empv9CwRkg/empv-20250119.1607
+    empv.el -> empv.el
+Created empv-20250119.1607.tar containing:
+  empv-20250119.1607/
+  empv-20250119.1607/empv-pkg.el
+  empv-20250119.1607/empv.el
+ ✓ Success:
+  2025-01-22T11:17:53+0000  empv-20250119.1607.entry
+  2025-01-22T11:17:53+0000  empv-20250119.1607.tar
+Built empv in 4.246s, finished at 2025-01-22T11:17:55+0000

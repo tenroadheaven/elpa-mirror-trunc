@@ -1,0 +1,25 @@
+Package: denote-explore
+Fetcher: github
+Source:  https://github.com/pprevos/denote-explore
+
+Updating /mnt/store/melpa/working/denote-explore/
+Checking out 255ebe57f683c1c0318ae59def399ad328708ab6
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/denote-explore/
+  to /tmp/denote-exploreHEfwiQ/denote-explore-20250114.937
+    denote-explore.el -> denote-explore.el
+    denote-explore.info -> denote-explore.info
+    denote-explore.texi -> denote-explore.texi
+    denote-explore-network.html -> denote-explore-network.html
+Generating denote-explore.info
+Created denote-explore-20250114.937.tar containing:
+  denote-explore-20250114.937/
+  denote-explore-20250114.937/denote-explore-network.html
+  denote-explore-20250114.937/denote-explore-pkg.el
+  denote-explore-20250114.937/denote-explore.el
+  denote-explore-20250114.937/denote-explore.info
+  denote-explore-20250114.937/dir
+ ✓ Success:
+  2025-01-22T11:10:41+0000  denote-explore-20250114.937.entry
+  2025-01-22T11:10:41+0000  denote-explore-20250114.937.tar
+Built denote-explore in 6.059s, finished at 2025-01-22T11:10:42+0000

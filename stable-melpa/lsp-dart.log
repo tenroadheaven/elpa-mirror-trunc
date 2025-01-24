@@ -1,0 +1,48 @@
+Package: lsp-dart
+Fetcher: github
+Source:  https://github.com/emacs-lsp/lsp-dart
+
+Updating /mnt/store/melpa/working/lsp-dart/
+Checking out 7e3d3429418bc42cda7fa7b58e6644a705cf2f89
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/lsp-dart/
+  to /tmp/lsp-dart3ghiAI/lsp-dart-20241114.2005
+    lsp-dart-closing-labels.el -> lsp-dart-closing-labels.el
+    lsp-dart-code-lens.el -> lsp-dart-code-lens.el
+    lsp-dart-commands.el -> lsp-dart-commands.el
+    lsp-dart-dap.el -> lsp-dart-dap.el
+    lsp-dart-devtools.el -> lsp-dart-devtools.el
+    lsp-dart-flutter-colors.el -> lsp-dart-flutter-colors.el
+    lsp-dart-flutter-daemon.el -> lsp-dart-flutter-daemon.el
+    lsp-dart-flutter-fringe-colors.el -> lsp-dart-flutter-fringe-colors.el
+    lsp-dart-flutter-widget-guide.el -> lsp-dart-flutter-widget-guide.el
+    lsp-dart-outline.el -> lsp-dart-outline.el
+    lsp-dart-protocol.el -> lsp-dart-protocol.el
+    lsp-dart-test-output.el -> lsp-dart-test-output.el
+    lsp-dart-test-support.el -> lsp-dart-test-support.el
+    lsp-dart-test-tree.el -> lsp-dart-test-tree.el
+    lsp-dart-utils.el -> lsp-dart-utils.el
+    lsp-dart.el -> lsp-dart.el
+Created lsp-dart-20241114.2005.tar containing:
+  lsp-dart-20241114.2005/
+  lsp-dart-20241114.2005/lsp-dart-closing-labels.el
+  lsp-dart-20241114.2005/lsp-dart-code-lens.el
+  lsp-dart-20241114.2005/lsp-dart-commands.el
+  lsp-dart-20241114.2005/lsp-dart-dap.el
+  lsp-dart-20241114.2005/lsp-dart-devtools.el
+  lsp-dart-20241114.2005/lsp-dart-flutter-colors.el
+  lsp-dart-20241114.2005/lsp-dart-flutter-daemon.el
+  lsp-dart-20241114.2005/lsp-dart-flutter-fringe-colors.el
+  lsp-dart-20241114.2005/lsp-dart-flutter-widget-guide.el
+  lsp-dart-20241114.2005/lsp-dart-outline.el
+  lsp-dart-20241114.2005/lsp-dart-pkg.el
+  lsp-dart-20241114.2005/lsp-dart-protocol.el
+  lsp-dart-20241114.2005/lsp-dart-test-output.el
+  lsp-dart-20241114.2005/lsp-dart-test-support.el
+  lsp-dart-20241114.2005/lsp-dart-test-tree.el
+  lsp-dart-20241114.2005/lsp-dart-utils.el
+  lsp-dart-20241114.2005/lsp-dart.el
+ ✓ Success:
+  2025-01-22T11:46:12+0000  lsp-dart-20241114.2005.entry
+  2025-01-22T11:46:12+0000  lsp-dart-20241114.2005.tar
+Built lsp-dart in 4.848s, finished at 2025-01-22T11:46:13+0000

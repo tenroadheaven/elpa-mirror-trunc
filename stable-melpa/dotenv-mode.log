@@ -1,0 +1,18 @@
+Package: dotenv-mode
+Fetcher: github
+Source:  https://github.com/preetpalS/emacs-dotenv-mode
+
+Updating /mnt/store/melpa/working/dotenv-mode/
+Checking out e3701bf739bde44f6484eb7753deadaf691b73fb
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/dotenv-mode/
+  to /tmp/dotenv-modeHYpYCH/dotenv-mode-20191027.2129
+    dotenv-mode.el -> dotenv-mode.el
+Created dotenv-mode-20191027.2129.tar containing:
+  dotenv-mode-20191027.2129/
+  dotenv-mode-20191027.2129/dotenv-mode-pkg.el
+  dotenv-mode-20191027.2129/dotenv-mode.el
+ ✓ Success:
+  2025-01-22T11:13:17+0000  dotenv-mode-20191027.2129.entry
+  2025-01-22T11:13:17+0000  dotenv-mode-20191027.2129.tar
+Built dotenv-mode in 3.778s, finished at 2025-01-22T11:13:18+0000

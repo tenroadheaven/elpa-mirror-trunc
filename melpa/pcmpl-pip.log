@@ -1,0 +1,18 @@
+Package: pcmpl-pip
+Fetcher: github
+Source:  https://github.com/zwild/pcmpl-pip
+
+Updating /mnt/store/melpa/working/pcmpl-pip/
+Checking out ebb672d4494f876f611639e65df4e28e566c06b5
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/pcmpl-pip/
+  to /tmp/pcmpl-pipvFTRNG/pcmpl-pip-20181229.1420
+    pcmpl-pip.el -> pcmpl-pip.el
+Created pcmpl-pip-20181229.1420.tar containing:
+  pcmpl-pip-20181229.1420/
+  pcmpl-pip-20181229.1420/pcmpl-pip-pkg.el
+  pcmpl-pip-20181229.1420/pcmpl-pip.el
+ ✓ Success:
+  2025-01-22T12:02:46+0000  pcmpl-pip-20181229.1420.entry
+  2025-01-22T12:02:46+0000  pcmpl-pip-20181229.1420.tar
+Built pcmpl-pip in 3.402s, finished at 2025-01-22T12:02:47+0000

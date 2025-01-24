@@ -1,0 +1,66 @@
+Package: howm
+Fetcher: github
+Source:  https://github.com/kaorahi/howm
+
+Updating /mnt/store/melpa/working/howm/
+Checking out b1a3066f089cebda7932f8b2cd41fd6d8a68d364
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/howm/
+  to /tmp/howm14yZNh/howm-20250103.449
+    action-lock.el -> action-lock.el
+    bcomp.el -> bcomp.el
+    cheat-font-lock.el -> cheat-font-lock.el
+    gfunc.el -> gfunc.el
+    honest-report.el -> honest-report.el
+    howm-backend.el -> howm-backend.el
+    howm-common.el -> howm-common.el
+    howm-date.el -> howm-date.el
+    howm-lang-en.el -> howm-lang-en.el
+    howm-lang-fr.el -> howm-lang-fr.el
+    howm-lang-ja.el -> howm-lang-ja.el
+    howm-menu-en.el -> howm-menu-en.el
+    howm-menu-fr.el -> howm-menu-fr.el
+    howm-menu-ja.el -> howm-menu-ja.el
+    howm-menu.el -> howm-menu.el
+    howm-misc.el -> howm-misc.el
+    howm-mkmenu.el -> howm-mkmenu.el
+    howm-mode.el -> howm-mode.el
+    howm-reminder.el -> howm-reminder.el
+    howm-vars.el -> howm-vars.el
+    howm-view.el -> howm-view.el
+    howm.el -> howm.el
+    iigrep.el -> iigrep.el
+    illusion.el -> illusion.el
+    riffle.el -> riffle.el
+Created howm-20250103.449.tar containing:
+  howm-20250103.449/
+  howm-20250103.449/action-lock.el
+  howm-20250103.449/bcomp.el
+  howm-20250103.449/cheat-font-lock.el
+  howm-20250103.449/gfunc.el
+  howm-20250103.449/honest-report.el
+  howm-20250103.449/howm-backend.el
+  howm-20250103.449/howm-common.el
+  howm-20250103.449/howm-date.el
+  howm-20250103.449/howm-lang-en.el
+  howm-20250103.449/howm-lang-fr.el
+  howm-20250103.449/howm-lang-ja.el
+  howm-20250103.449/howm-menu-en.el
+  howm-20250103.449/howm-menu-fr.el
+  howm-20250103.449/howm-menu-ja.el
+  howm-20250103.449/howm-menu.el
+  howm-20250103.449/howm-misc.el
+  howm-20250103.449/howm-mkmenu.el
+  howm-20250103.449/howm-mode.el
+  howm-20250103.449/howm-pkg.el
+  howm-20250103.449/howm-reminder.el
+  howm-20250103.449/howm-vars.el
+  howm-20250103.449/howm-view.el
+  howm-20250103.449/howm.el
+  howm-20250103.449/iigrep.el
+  howm-20250103.449/illusion.el
+  howm-20250103.449/riffle.el
+ ✓ Success:
+  2025-01-22T11:36:21+0000  howm-20250103.449.entry
+  2025-01-22T11:36:21+0000  howm-20250103.449.tar
+Built howm in 5.162s, finished at 2025-01-22T11:36:22+0000

@@ -1,0 +1,20 @@
+Package: el-job
+Fetcher: github
+Source:  https://github.com/meedstrom/el-job
+
+Updating /mnt/store/melpa/working/el-job/
+Checking out 6c5879c74bf10203ab6f2c91ca346d28d029e20b
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/el-job/
+  to /tmp/el-jobYEcRaB/el-job-20250121.1602
+    el-job-child.el -> el-job-child.el
+    el-job.el -> el-job.el
+Created el-job-20250121.1602.tar containing:
+  el-job-20250121.1602/
+  el-job-20250121.1602/el-job-child.el
+  el-job-20250121.1602/el-job-pkg.el
+  el-job-20250121.1602/el-job.el
+ ✓ Success:
+  2025-01-22T11:15:49+0000  el-job-20250121.1602.entry
+  2025-01-22T11:15:49+0000  el-job-20250121.1602.tar
+Built el-job in 4.271s, finished at 2025-01-22T11:15:50+0000

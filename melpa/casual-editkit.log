@@ -1,0 +1,26 @@
+Package: casual-editkit
+Fetcher: github
+Source:  https://github.com/kickingvegas/casual-editkit
+
+Updating /mnt/store/melpa/working/casual-editkit/
+Checking out 94e6189ef24f70823e32f8d77096054f2cb9f832
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/casual-editkit/
+  to /tmp/casual-editkitkH4XGL/casual-editkit-20241021.2326
+  ! lisp/casual-editkit-constants.el -> casual-editkit-constants.el
+  ! lisp/casual-editkit-settings.el -> casual-editkit-settings.el
+  ! lisp/casual-editkit-utils.el -> casual-editkit-utils.el
+  ! lisp/casual-editkit-version.el -> casual-editkit-version.el
+  ! lisp/casual-editkit.el -> casual-editkit.el
+Created casual-editkit-20241021.2326.tar containing:
+  casual-editkit-20241021.2326/
+  casual-editkit-20241021.2326/casual-editkit-constants.el
+  casual-editkit-20241021.2326/casual-editkit-pkg.el
+  casual-editkit-20241021.2326/casual-editkit-settings.el
+  casual-editkit-20241021.2326/casual-editkit-utils.el
+  casual-editkit-20241021.2326/casual-editkit-version.el
+  casual-editkit-20241021.2326/casual-editkit.el
+ ✓ Success:
+  2024-10-27T16:36:26+0000  casual-editkit-20241021.2326.entry
+  2024-10-27T16:36:26+0000  casual-editkit-20241021.2326.tar
+Built casual-editkit in 3.323s, finished at 2024-10-27T16:36:27+0000

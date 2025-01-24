@@ -1,0 +1,18 @@
+Package: on
+Fetcher: gitlab
+Source:  https://gitlab.com/ajgrf/on.el
+
+Updating /mnt/store/melpa/working/on/
+Checking out 3cf623e1a4331e259ef92e49154ed0551f300436
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/on/
+  to /tmp/onUJ1uTy/on-20221206.600
+    on.el -> on.el
+Created on-20221206.600.tar containing:
+  on-20221206.600/
+  on-20221206.600/on-pkg.el
+  on-20221206.600/on.el
+ ✓ Success:
+  2025-01-22T11:56:01+0000  on-20221206.600.entry
+  2025-01-22T11:56:01+0000  on-20221206.600.tar
+Built on in 3.747s, finished at 2025-01-22T11:56:02+0000

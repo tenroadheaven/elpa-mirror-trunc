@@ -1,0 +1,62 @@
+Package: forge
+Fetcher: github
+Source:  https://github.com/magit/forge
+
+Updating /mnt/store/melpa/working/forge/
+Checking out 4e8b837164b2fb4e9532fa478da9e33d42ec8804
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/forge/
+  to /tmp/forgeMMRdFx/forge-20250118.1853
+  ! lisp/forge-bitbucket.el -> forge-bitbucket.el
+  ! lisp/forge-commands.el -> forge-commands.el
+  ! lisp/forge-core.el -> forge-core.el
+  ! lisp/forge-db.el -> forge-db.el
+  ! lisp/forge-forgejo.el -> forge-forgejo.el
+  ! lisp/forge-gitea.el -> forge-gitea.el
+  ! lisp/forge-github.el -> forge-github.el
+  ! lisp/forge-gitlab.el -> forge-gitlab.el
+  ! lisp/forge-gogs.el -> forge-gogs.el
+  ! lisp/forge-issue.el -> forge-issue.el
+  ! lisp/forge-notify.el -> forge-notify.el
+  ! lisp/forge-post.el -> forge-post.el
+  ! lisp/forge-pullreq.el -> forge-pullreq.el
+  ! lisp/forge-repo.el -> forge-repo.el
+  ! lisp/forge-repos.el -> forge-repos.el
+  ! lisp/forge-revnote.el -> forge-revnote.el
+  ! lisp/forge-semi.el -> forge-semi.el
+  ! lisp/forge-tablist.el -> forge-tablist.el
+  ! lisp/forge-topic.el -> forge-topic.el
+  ! lisp/forge-topics.el -> forge-topics.el
+  ! lisp/forge.el -> forge.el
+  ! docs/forge.texi -> forge.texi
+Generating forge.info
+Created forge-20250118.1853.tar containing:
+  forge-20250118.1853/
+  forge-20250118.1853/dir
+  forge-20250118.1853/forge-bitbucket.el
+  forge-20250118.1853/forge-commands.el
+  forge-20250118.1853/forge-core.el
+  forge-20250118.1853/forge-db.el
+  forge-20250118.1853/forge-forgejo.el
+  forge-20250118.1853/forge-gitea.el
+  forge-20250118.1853/forge-github.el
+  forge-20250118.1853/forge-gitlab.el
+  forge-20250118.1853/forge-gogs.el
+  forge-20250118.1853/forge-issue.el
+  forge-20250118.1853/forge-notify.el
+  forge-20250118.1853/forge-pkg.el
+  forge-20250118.1853/forge-post.el
+  forge-20250118.1853/forge-pullreq.el
+  forge-20250118.1853/forge-repo.el
+  forge-20250118.1853/forge-repos.el
+  forge-20250118.1853/forge-revnote.el
+  forge-20250118.1853/forge-semi.el
+  forge-20250118.1853/forge-tablist.el
+  forge-20250118.1853/forge-topic.el
+  forge-20250118.1853/forge-topics.el
+  forge-20250118.1853/forge.el
+  forge-20250118.1853/forge.info
+ ✓ Success:
+  2025-01-22T11:27:05+0000  forge-20250118.1853.entry
+  2025-01-22T11:27:05+0000  forge-20250118.1853.tar
+Built forge in 7.970s, finished at 2025-01-22T11:27:06+0000

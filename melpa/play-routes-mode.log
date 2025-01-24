@@ -1,0 +1,18 @@
+Package: play-routes-mode
+Fetcher: github
+Source:  https://github.com/brocode/play-routes-mode
+
+Updating /mnt/store/melpa/working/play-routes-mode/
+Checking out ef8230932f7bb96643febbd6872c522932f9571a
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/play-routes-mode/
+  to /tmp/play-routes-modeOnenpn/play-routes-mode-20170426.733
+    play-routes-mode.el -> play-routes-mode.el
+Created play-routes-mode-20170426.733.tar containing:
+  play-routes-mode-20170426.733/
+  play-routes-mode-20170426.733/play-routes-mode-pkg.el
+  play-routes-mode-20170426.733/play-routes-mode.el
+ ✓ Success:
+  2025-01-22T12:04:23+0000  play-routes-mode-20170426.733.entry
+  2025-01-22T12:04:23+0000  play-routes-mode-20170426.733.tar
+Built play-routes-mode in 4.077s, finished at 2025-01-22T12:04:24+0000

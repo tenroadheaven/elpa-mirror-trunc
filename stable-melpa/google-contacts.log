@@ -1,0 +1,26 @@
+Package: google-contacts
+Fetcher: github
+Source:  https://github.com/jd/google-contacts.el
+
+Updating /mnt/store/melpa/working/google-contacts/
+Checking out 8923c238fe0906184d2254b33ba72792ed12cd47
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/google-contacts/
+  to /tmp/google-contactsPgUHO1/google-contacts-20201012.1056
+    google-contacts-gnus.el -> google-contacts-gnus.el
+    google-contacts-message.el -> google-contacts-message.el
+    google-contacts.el -> google-contacts.el
+    google-oauth.el -> google-oauth.el
+    google-org-contacts.el -> google-org-contacts.el
+Created google-contacts-20201012.1056.tar containing:
+  google-contacts-20201012.1056/
+  google-contacts-20201012.1056/google-contacts-gnus.el
+  google-contacts-20201012.1056/google-contacts-message.el
+  google-contacts-20201012.1056/google-contacts-pkg.el
+  google-contacts-20201012.1056/google-contacts.el
+  google-contacts-20201012.1056/google-oauth.el
+  google-contacts-20201012.1056/google-org-contacts.el
+ ✓ Success:
+  2025-01-22T11:30:30+0000  google-contacts-20201012.1056.entry
+  2025-01-22T11:30:29+0000  google-contacts-20201012.1056.tar
+Built google-contacts in 4.419s, finished at 2025-01-22T11:30:31+0000

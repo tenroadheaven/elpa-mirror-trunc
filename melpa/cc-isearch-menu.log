@@ -1,0 +1,7 @@
+Package: cc-isearch-menu
+Fetcher: github
+Source:  https://github.com/kickingvegas/cc-isearch-menu.git
+
+Updating /mnt/store/melpa/working/cc-isearch-menu/
+Checking out 80022641e89689f40446e5c6dd94e1cc86c9f862
+cc-isearch-menu[-pkg].el matching package name is missing

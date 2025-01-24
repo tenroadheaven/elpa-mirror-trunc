@@ -1,0 +1,18 @@
+Package: flycheck-google-cpplint
+Fetcher: github
+Source:  https://github.com/flycheck/flycheck-google-cpplint
+
+Updating /mnt/store/melpa/working/flycheck-google-cpplint/
+Checking out 9b2f8eeb46874cbb0c34caaa91ac3cdc3d0d6f56
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/flycheck-google-cpplint/
+  to /tmp/flycheck-google-cpplinto2zB7I/flycheck-google-cpplint-20250101.901
+    flycheck-google-cpplint.el -> flycheck-google-cpplint.el
+Created flycheck-google-cpplint-20250101.901.tar containing:
+  flycheck-google-cpplint-20250101.901/
+  flycheck-google-cpplint-20250101.901/flycheck-google-cpplint-pkg.el
+  flycheck-google-cpplint-20250101.901/flycheck-google-cpplint.el
+ ✓ Success:
+  2025-01-22T11:24:18+0000  flycheck-google-cpplint-20250101.901.entry
+  2025-01-22T11:24:17+0000  flycheck-google-cpplint-20250101.901.tar
+Built flycheck-google-cpplint in 4.301s, finished at 2025-01-22T11:24:19+0000

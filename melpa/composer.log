@@ -1,0 +1,20 @@
+Package: composer
+Fetcher: github
+Source:  https://github.com/emacs-php/composer.el
+
+Updating /mnt/store/melpa/working/composer/
+Checking out 6c7e19256ff964546cea682edd21446c465a663c
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/composer/
+  to /tmp/composereFhQny/composer-20241016.1900
+    composer-list.el -> composer-list.el
+    composer.el -> composer.el
+Created composer-20241016.1900.tar containing:
+  composer-20241016.1900/
+  composer-20241016.1900/composer-list.el
+  composer-20241016.1900/composer-pkg.el
+  composer-20241016.1900/composer.el
+ ✓ Success:
+  2025-01-22T11:06:45+0000  composer-20241016.1900.entry
+  2025-01-22T11:06:45+0000  composer-20241016.1900.tar
+Built composer in 3.448s, finished at 2025-01-22T11:06:46+0000

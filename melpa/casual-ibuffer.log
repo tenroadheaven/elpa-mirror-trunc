@@ -1,0 +1,26 @@
+Package: casual-ibuffer
+Fetcher: github
+Source:  https://github.com/kickingvegas/casual-ibuffer
+
+Updating /mnt/store/melpa/working/casual-ibuffer/
+Checking out 35da3ff938182f497a18ab9544f7cc9c62212046
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/casual-ibuffer/
+  to /tmp/casual-ibuffergzXJ2B/casual-ibuffer-20241021.2349
+  ! lisp/casual-ibuffer-filter.el -> casual-ibuffer-filter.el
+  ! lisp/casual-ibuffer-settings.el -> casual-ibuffer-settings.el
+  ! lisp/casual-ibuffer-utils.el -> casual-ibuffer-utils.el
+  ! lisp/casual-ibuffer-version.el -> casual-ibuffer-version.el
+  ! lisp/casual-ibuffer.el -> casual-ibuffer.el
+Created casual-ibuffer-20241021.2349.tar containing:
+  casual-ibuffer-20241021.2349/
+  casual-ibuffer-20241021.2349/casual-ibuffer-filter.el
+  casual-ibuffer-20241021.2349/casual-ibuffer-pkg.el
+  casual-ibuffer-20241021.2349/casual-ibuffer-settings.el
+  casual-ibuffer-20241021.2349/casual-ibuffer-utils.el
+  casual-ibuffer-20241021.2349/casual-ibuffer-version.el
+  casual-ibuffer-20241021.2349/casual-ibuffer.el
+ ✓ Success:
+  2024-10-27T16:36:27+0000  casual-ibuffer-20241021.2349.entry
+  2024-10-27T16:36:27+0000  casual-ibuffer-20241021.2349.tar
+Built casual-ibuffer in 3.176s, finished at 2024-10-27T16:36:28+0000

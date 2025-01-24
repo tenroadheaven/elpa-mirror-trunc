@@ -1,0 +1,18 @@
+Package: evil-args
+Fetcher: github
+Source:  https://github.com/wcsmith/evil-args
+
+Updating /mnt/store/melpa/working/evil-args/
+Checking out a8151556f63c9d45d0c44c8a7ef9e5a542f3cdc7
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/evil-args/
+  to /tmp/evil-argsRv6v1l/evil-args-20240210.504
+    evil-args.el -> evil-args.el
+Created evil-args-20240210.504.tar containing:
+  evil-args-20240210.504/
+  evil-args-20240210.504/evil-args-pkg.el
+  evil-args-20240210.504/evil-args.el
+ ✓ Success:
+  2025-01-22T11:19:57+0000  evil-args-20240210.504.entry
+  2025-01-22T11:19:57+0000  evil-args-20240210.504.tar
+Built evil-args in 6.422s, finished at 2025-01-22T11:20:00+0000

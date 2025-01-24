@@ -1,0 +1,23 @@
+Package: kagi
+Fetcher: codeberg
+Source:  https://codeberg.org/bram85/kagi.el
+
+Updating /mnt/store/melpa/working/kagi/
+Checking out 013749218495e2c1bf2bb203c6b61976963817b5
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/kagi/
+  to /tmp/kagipkvPHb/kagi-20240811.2130
+    kagi.el -> kagi.el
+    ob-kagi-fastgpt.el -> ob-kagi-fastgpt.el
+    kagi.info -> kagi.info
+Created kagi-20240811.2130.tar containing:
+  kagi-20240811.2130/
+  kagi-20240811.2130/dir
+  kagi-20240811.2130/kagi-pkg.el
+  kagi-20240811.2130/kagi.el
+  kagi-20240811.2130/kagi.info
+  kagi-20240811.2130/ob-kagi-fastgpt.el
+ ✓ Success:
+  2025-01-22T11:41:55+0000  kagi-20240811.2130.entry
+  2025-01-22T11:41:55+0000  kagi-20240811.2130.tar
+Built kagi in 6.177s, finished at 2025-01-22T11:41:57+0000

@@ -1,0 +1,40 @@
+Package: mistty
+Fetcher: github
+Source:  https://github.com/szermatt/mistty
+
+Updating /mnt/store/melpa/working/mistty/
+Checking out b369a43a0085a74d78062d336926575398e121b1
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/mistty/
+  to /tmp/misttyseTZOU/mistty-20250119.1938
+    mistty-changeset.el -> mistty-changeset.el
+    mistty-launch.el -> mistty-launch.el
+    mistty-log.el -> mistty-log.el
+    mistty-osc7.el -> mistty-osc7.el
+    mistty-project.el -> mistty-project.el
+    mistty-queue.el -> mistty-queue.el
+    mistty-term.el -> mistty-term.el
+    mistty-undo.el -> mistty-undo.el
+    mistty-util.el -> mistty-util.el
+    mistty.el -> mistty.el
+    mistty.texi -> mistty.texi
+Generating mistty.info
+Created mistty-20250119.1938.tar containing:
+  mistty-20250119.1938/
+  mistty-20250119.1938/dir
+  mistty-20250119.1938/mistty-changeset.el
+  mistty-20250119.1938/mistty-launch.el
+  mistty-20250119.1938/mistty-log.el
+  mistty-20250119.1938/mistty-osc7.el
+  mistty-20250119.1938/mistty-pkg.el
+  mistty-20250119.1938/mistty-project.el
+  mistty-20250119.1938/mistty-queue.el
+  mistty-20250119.1938/mistty-term.el
+  mistty-20250119.1938/mistty-undo.el
+  mistty-20250119.1938/mistty-util.el
+  mistty-20250119.1938/mistty.el
+  mistty-20250119.1938/mistty.info
+ ✓ Success:
+  2025-01-22T11:50:01+0000  mistty-20250119.1938.entry
+  2025-01-22T11:50:01+0000  mistty-20250119.1938.tar
+Built mistty in 7.796s, finished at 2025-01-22T11:50:02+0000

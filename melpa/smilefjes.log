@@ -1,0 +1,18 @@
+Package: smilefjes
+Fetcher: github
+Source:  https://github.com/themkat/smilefjes.el
+
+Updating /mnt/store/melpa/working/smilefjes/
+Checking out c7e4ebb06215e67e8bdd8299b4cc7405fc861f5b
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/smilefjes/
+  to /tmp/smilefjesqKnnis/smilefjes-20240826.2107
+    smilefjes.el -> smilefjes.el
+Created smilefjes-20240826.2107.tar containing:
+  smilefjes-20240826.2107/
+  smilefjes-20240826.2107/smilefjes-pkg.el
+  smilefjes-20240826.2107/smilefjes.el
+ ✓ Success:
+  2025-01-22T09:10:06+0000  smilefjes-20240826.2107.entry
+  2025-01-22T09:10:06+0000  smilefjes-20240826.2107.tar
+Built smilefjes in 3.318s, finished at 2025-01-22T09:10:07+0000

@@ -1,0 +1,34 @@
+Package: epkg
+Fetcher: github
+Source:  https://github.com/emacscollective/epkg
+
+Updating /mnt/store/melpa/working/epkg/
+Checking out d28ce2f7d57c2f082506d25e653b68673daf33c2
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/epkg/
+  to /tmp/epkg7Ohy6C/epkg-20250101.1751
+  ! lisp/epkg-desc.el -> epkg-desc.el
+  ! lisp/epkg-elpa.el -> epkg-elpa.el
+  ! lisp/epkg-list.el -> epkg-list.el
+  ! lisp/epkg-org.el -> epkg-org.el
+  ! lisp/epkg-schemata.el -> epkg-schemata.el
+  ! lisp/epkg-utils.el -> epkg-utils.el
+  ! lisp/epkg.el -> epkg.el
+  ! docs/epkg.texi -> epkg.texi
+Generating epkg.info
+Created epkg-20250101.1751.tar containing:
+  epkg-20250101.1751/
+  epkg-20250101.1751/dir
+  epkg-20250101.1751/epkg-desc.el
+  epkg-20250101.1751/epkg-elpa.el
+  epkg-20250101.1751/epkg-list.el
+  epkg-20250101.1751/epkg-org.el
+  epkg-20250101.1751/epkg-pkg.el
+  epkg-20250101.1751/epkg-schemata.el
+  epkg-20250101.1751/epkg-utils.el
+  epkg-20250101.1751/epkg.el
+  epkg-20250101.1751/epkg.info
+ ✓ Success:
+  2025-01-22T11:18:11+0000  epkg-20250101.1751.entry
+  2025-01-22T11:18:11+0000  epkg-20250101.1751.tar
+Built epkg in 6.093s, finished at 2025-01-22T11:18:12+0000

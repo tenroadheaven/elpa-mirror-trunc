@@ -1,0 +1,7 @@
+Package: opencl-mode
+Fetcher: github
+Source:  https://github.com/salmanebah/opencl-mode.git
+
+Updating /mnt/store/melpa/working/opencl-mode/
+Checking out d33ce29c19629e9c2f42e468d2687a475915f531
+opencl-mode[-pkg].el matching package name is missing

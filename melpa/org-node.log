@@ -1,0 +1,30 @@
+Package: org-node
+Fetcher: github
+Source:  https://github.com/meedstrom/org-node
+
+Updating /mnt/store/melpa/working/org-node/
+Checking out 4d862b10fee403ca17ffa1f30e0843304d8b59fe
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/org-node/
+  to /tmp/org-node8eGw98/org-node-20250112.1710
+    org-node-backlink.el -> org-node-backlink.el
+    org-node-changes.el -> org-node-changes.el
+    org-node-parser.el -> org-node-parser.el
+    org-node-seq.el -> org-node-seq.el
+    org-node.el -> org-node.el
+    org-node.texi -> org-node.texi
+Generating org-node.info
+Created org-node-20250112.1710.tar containing:
+  org-node-20250112.1710/
+  org-node-20250112.1710/dir
+  org-node-20250112.1710/org-node-backlink.el
+  org-node-20250112.1710/org-node-changes.el
+  org-node-20250112.1710/org-node-parser.el
+  org-node-20250112.1710/org-node-pkg.el
+  org-node-20250112.1710/org-node-seq.el
+  org-node-20250112.1710/org-node.el
+  org-node-20250112.1710/org-node.info
+ ✓ Success:
+  2025-01-22T11:58:08+0000  org-node-20250112.1710.entry
+  2025-01-22T11:58:08+0000  org-node-20250112.1710.tar
+Built org-node in 6.635s, finished at 2025-01-22T11:58:09+0000

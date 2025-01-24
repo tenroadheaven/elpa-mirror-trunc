@@ -1,0 +1,69 @@
+Package: flim
+Fetcher: github
+Source:  https://github.com/emacsmirror/flim
+
+Updating /mnt/store/melpa/working/flim/
+Checking out 4ee02945854e4dc94327aad5da2e43d85a777420
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/flim/
+  to /tmp/flimTuBzHm/flim-20241125.2201
+    mime-en.texi -> mime-en.texi
+    mime-ja.texi -> mime-ja.texi
+    eword-decode.el -> eword-decode.el
+    eword-encode.el -> eword-encode.el
+    flim.el -> flim.el
+    hmac-sha1.el -> hmac-sha1.el
+    luna.el -> luna.el
+    lunit.el -> lunit.el
+    mel-g.el -> mel-g.el
+    mel-q-ccl.el -> mel-q-ccl.el
+    mel-q.el -> mel-q.el
+    mel-u.el -> mel-u.el
+    mel.el -> mel.el
+    mime-conf.el -> mime-conf.el
+    mime-def.el -> mime-def.el
+    mime-parse.el -> mime-parse.el
+    mime.el -> mime.el
+    mmbuffer.el -> mmbuffer.el
+    mmcooked.el -> mmcooked.el
+    mmexternal.el -> mmexternal.el
+    mmgeneric.el -> mmgeneric.el
+    qmtp.el -> qmtp.el
+    sasl-xoauth2.el -> sasl-xoauth2.el
+    smtp.el -> smtp.el
+    std11.el -> std11.el
+Generating mime-en.info
+Generating mime-ja.info
+Created flim-20241125.2201.tar containing:
+  flim-20241125.2201/
+  flim-20241125.2201/dir
+  flim-20241125.2201/eword-decode.el
+  flim-20241125.2201/eword-encode.el
+  flim-20241125.2201/flim-pkg.el
+  flim-20241125.2201/flim.el
+  flim-20241125.2201/hmac-sha1.el
+  flim-20241125.2201/luna.el
+  flim-20241125.2201/lunit.el
+  flim-20241125.2201/mel-g.el
+  flim-20241125.2201/mel-q-ccl.el
+  flim-20241125.2201/mel-q.el
+  flim-20241125.2201/mel-u.el
+  flim-20241125.2201/mel.el
+  flim-20241125.2201/mime-conf.el
+  flim-20241125.2201/mime-def.el
+  flim-20241125.2201/mime-en.info
+  flim-20241125.2201/mime-ja.info
+  flim-20241125.2201/mime-parse.el
+  flim-20241125.2201/mime.el
+  flim-20241125.2201/mmbuffer.el
+  flim-20241125.2201/mmcooked.el
+  flim-20241125.2201/mmexternal.el
+  flim-20241125.2201/mmgeneric.el
+  flim-20241125.2201/qmtp.el
+  flim-20241125.2201/sasl-xoauth2.el
+  flim-20241125.2201/smtp.el
+  flim-20241125.2201/std11.el
+ ✓ Success:
+  2025-01-22T11:23:28+0000  flim-20241125.2201.entry
+  2025-01-22T11:23:28+0000  flim-20241125.2201.tar
+Built flim in 11.020s, finished at 2025-01-22T11:23:29+0000

@@ -1,0 +1,18 @@
+Package: mise
+Fetcher: github
+Source:  https://github.com/liuyinz/mise.el
+
+Updating /mnt/store/melpa/working/mise/
+Checking out 99e4ca1acd987099f84993bc8a2facb42628dcbf
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/mise/
+  to /tmp/misedln52O/mise-20250102.1433
+    mise.el -> mise.el
+Created mise-20250102.1433.tar containing:
+  mise-20250102.1433/
+  mise-20250102.1433/mise-pkg.el
+  mise-20250102.1433/mise.el
+ ✓ Success:
+  2025-01-22T11:49:56+0000  mise-20250102.1433.entry
+  2025-01-22T11:49:56+0000  mise-20250102.1433.tar
+Built mise in 3.806s, finished at 2025-01-22T11:49:58+0000
